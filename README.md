@@ -30,6 +30,6 @@ Ensure that necessary dependencies are installed, and the Flask application is r
 
 
 # Contributors
-[![Md Tazbidus Samad Tazbid](https://github.com/tstazbid.png?size=70)](https://github.com/tstazbid)
-[![Motawash Semeen Chowdhury](https://github.com/Motawash-Semeen.png?size=70)](https://github.com/Motawash-Semeen)
-[![Tanvir Hassan Joy](https://github.com/Harmfulllll.png?size=70)](https://github.com/Harmfulllll)
+[![Md Tazbidus Samad Tazbid](https://github.com/tstazbid.png?size=50)](https://github.com/tstazbid)
+[![Motawash Semeen Chowdhury](https://github.com/Motawash-Semeen.png?size=50)](https://github.com/Motawash-Semeen)
+[![Tanvir Hassan Joy](https://github.com/Harmfulllll.png?size=50)](https://github.com/Harmfulllll)
