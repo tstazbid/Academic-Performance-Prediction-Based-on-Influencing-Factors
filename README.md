@@ -18,3 +18,18 @@ This project combines the power of PySpark for scalable data processing and mach
 
 **Note:**
 Ensure that necessary dependencies are installed, and the Flask application is run in a suitable environment.
+
+
+# Technologies
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-%2305122B.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23118C4E.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+
+
+# Contributors
+[![Md Tazbidus Samad Tazbid](https://github.com/tstazbid.png?size=70)](https://github.com/tstazbid)
+[![Motawash Semeen Chowdhury](https://github.com/Motawash-Semeen.png?size=70)](https://github.com/Motawash-Semeen)
+[![Tanvir Hassan Joy](https://github.com/Harmfulllll.png?size=70)](https://github.com/Harmfulllll)
