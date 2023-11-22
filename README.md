@@ -1,4 +1,4 @@
-# Academic-Performance-Prediction-Based-on-Influencing-Factors
+# Academic Performance Prediction Based on Influencing Factors
 
 This project combines the power of PySpark for scalable data processing and machine learning model training with Flask for creating a user-friendly web interface. The machine learning models, including Decision Trees, Random Forests, and Gradient-Boosted Trees, are trained on student academic data to predict performance outcomes. Users can input student information through the web form, and the application provides predictions on academic performance.
 
